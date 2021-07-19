@@ -13,4 +13,4 @@ https://www.npmjs.com/package/json-server
 
 ## Screenshots
 task tracker   
-<img src="https://github.com/JingyiNiu/angular-task-tracker/blob/master/screenshots/home-add-task.png" width=600 align="top"> <img src="https://github.com/JingyiNiu/angular-task-tracker/blob/master/screenshots/home.png" width=600 align="top">
+<img src="https://github.com/JingyiNiu/angular-task-tracker/blob/master/screenshots/home.png" width=400 align="top"> <img src="https://github.com/JingyiNiu/angular-task-tracker/blob/master/screenshots/home-add-task.png" width=400 align="top">
