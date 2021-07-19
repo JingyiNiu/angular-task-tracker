@@ -10,3 +10,7 @@ https://www.npmjs.com/package/@fortawesome/angular-fontawesome
 ### json-server   
 https://www.npmjs.com/package/json-server   
 ```npm i json-server```
+
+## Screenshots
+task tracker   
+<img src="https://github.com/JingyiNiu/angular-task-tracker/blob/master/screenshots/home-add-task.png" width=600 align="top"> <img src="https://github.com/JingyiNiu/angular-task-tracker/blob/master/screenshots/home.png" width=600 align="top">
